@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ! Font -->
+    <link href="//db.onlinewebfonts.com/c/e55e9079ee863276569c8a68d776ef04?family=Futura+Md+BT" rel="stylesheet" type="text/css"/>
+    <title>Powerstrip</title>
+
+    <style type="text/css">
+        html {
+            height: 100%;
+        }
+        body {
+            height: 100%;
+            margin: 0;
+            background: #000000;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+            font-family: Futura Md BT, sans-serif;
+        }
+        .offline-img{
+            width: 20%;
+            border-radius: 50%;
+        }
+        .heading{
+            color: #ffffff;
+        }
+        .text{
+            color: #ffffff;
+        }
+        .button {
+        align-items: center;
+        background-color: #0A66C2;
+        border: 0;
+        border-radius: 100px;
+        box-sizing: border-box;
+        color: #ffffff;
+        cursor: pointer;
+        display: inline-flex;
+        font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        justify-content: center;
+        line-height: 20px;
+        max-width: 480px;
+        min-height: 40px;
+        min-width: 0px;
+        overflow: hidden;
+        padding: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+        touch-action: manipulation;
+        transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+        user-select: none;
+        -webkit-user-select: none;
+        vertical-align: middle;
+        }
+
+        .button:hover,
+        .button:focus { 
+        background-color: #16437E;
+        color: #ffffff;
+        }
+
+        .button:active {
+        background: #09223b;
+        color: rgb(255, 255, 255, .7);
+        }
+
+        .button:disabled { 
+        cursor: not-allowed;
+        background: rgba(0, 0, 0, .08);
+        color: rgba(0, 0, 0, .3);
+        }
+
+        @media screen and (max-width: 900px) {
+            .offline-img{
+            width: 50%;
+            border-radius: 50%;
+            }
+        }
+        @media screen and (max-width: 600px) {
+            .offline-img{
+            width: 60%;
+            border-radius: 50%;
+            }
+        }
+    </style>
+    
+</head>
+<body>
+    <div>
+        <center>
+            <img class="offline-img" src="offline.jpg" alt="">
+        </center>
+        <h3 class="heading">No internet connection</h3>
+        <p class="text">Please connect and try again.</p>
+        <button class="button" role="button">Try again</button>
+    </div>
+
+    <script>
+        document.querySelector(".button").addEventListener("click", refresh);
+        function refresh(){
+            window.location.reload();
+        }
+    </script>
+</body>
+</html>

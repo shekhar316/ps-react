@@ -1,0 +1,827 @@
+[
+  {
+    "SNo": 1,
+    "model": "NEEV",
+    "oem_name": "Altigreen Propulsion Labs Pvt Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "NEEV HD",
+    "oem": "Altigreen Propulsion Labs Pvt Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "NEEV LR",
+    "oem": "Altigreen Propulsion Labs Pvt Ltd"
+  },
+  {
+    "SNo": 4,
+    "model": "NEEV HDx",
+    "oem": "Altigreen Propulsion Labs Pvt Ltd"
+  },
+  {
+    "SNo": 5,
+    "model": "ZEAL",
+    "oem": "Ampere Vehicles Private Limited"
+  },
+  {
+    "SNo": 6,
+    "model": "Magnus",
+    "oem": "Ampere Vehicles Private Limited"
+  },
+  {
+    "SNo": 7,
+    "model": "Zeal VX1",
+    "oem": "Ampere Vehicles Private Limited"
+  },
+  {
+    "SNo": 8,
+    "model": "ZEAL-CA",
+    "oem": "Ampere Vehicles Private Limited"
+  },
+  {
+    "SNo": 9,
+    "model": "ZEAL EX",
+    "oem": "Ampere Vehicles Private Limited"
+  },
+  {
+    "SNo": 10,
+    "model": "MAGNUS EX",
+    "oem": "Ampere Vehicles Private Limited"
+  },
+  {
+    "SNo": 11,
+    "model": "ZEAL CA EX",
+    "oem": "Ampere Vehicles Private Limited"
+  },
+  {
+    "SNo": 11,
+    "model": "ATHER 450",
+    "oem": "Ather Energy Pvt. Ltd"
+  },
+  {
+    "SNo": 12,
+    "model": "Ather450",
+    "oem": "Ather Energy Pvt. Ltd"
+  },
+  {
+    "SNo": 13,
+    "model": "Ather 450 X",
+    "oem": "Ather Energy Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "Atul Elite+",
+    "oem": "Atul Auto Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "Atul Elite+ Cargo",
+    "oem": "Atul Auto Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "GREENWAY HP DX",
+    "oem": "Avon Cycles Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "E-RICK 306 LI",
+    "oem": "Avon Cycles Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "CHETAK 2403 Premium",
+    "oem": "Bajaj Auto Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "CHETAK 2403 Urbane",
+    "oem": "Bajaj Auto Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "Chetak 2413 Premium",
+    "oem": "Bajaj Auto Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "SWACHH RATH",
+    "oem": "Balan Engineering Private Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "B5",
+    "oem": "Balan Engineering Private Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "VISHWAS",
+    "oem": "Balan Engineering Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "Aura",
+    "oem": "Benling India Energy And Technology Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "ele ex",
+    "oem": "Best Way Agencies Pvt. Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "ele ex cargo",
+    "oem": "Best Way Agencies Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "ANAV1200",
+    "oem": "Booma Innovative Transport Solutions Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "**SAARTHI SHAVAK E AUTO",
+    "oem": "champion polyplast"
+  },
+  {
+    "SNo": 2,
+    "model": "**SAARTHI SHAVAK DLX E - AUTO",
+    "oem": "champion polyplast"
+  },
+  {
+    "SNo": 3,
+    "model": "SAARTHI F2",
+    "oem": "champion polyplast"
+  },
+  {
+    "SNo": 1,
+    "model": "Baxy Cargo Super King-EV",
+    "oem": "Continental Engines Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "CITYLIFE LI-PRIMA",
+    "oem": "Dilli Electric Auto Pvt Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "CITYLIFE LI MAX",
+    "oem": "Dilli Electric Auto Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "Premium Udaan",
+    "oem": "Energy Electric Vehicles"
+  },
+  {
+    "SNo": 1,
+    "model": "Touro Max Loader",
+    "oem": "Etrio Automobiles Private Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "Touro Mini loader",
+    "oem": "Etrio Automobiles Private Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "Touro Mini Passenger",
+    "oem": "Etrio Automobiles Private Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "HiLoad DV",
+    "oem": "Euler Motors Pvt Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "HiLoad PV",
+    "oem": "Euler Motors Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "**Prince Pro",
+    "oem": "Goenka Electric Motor Vehicles Pvt. Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "Prince Pro X",
+    "oem": "Goenka Electric Motor Vehicles Pvt. Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "Samrat Pro X",
+    "oem": "Goenka Electric Motor Vehicles Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "DAVRATH EXPRESS",
+    "oem": "Grd Motors"
+  },
+  {
+    "SNo": 1,
+    "model": "Photon LP",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "NYX HS 500 ER",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "OPTIMA HS 500 ER",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 4,
+    "model": "**OPTIMA PRO",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 5,
+    "model": "NYX Pro",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 6,
+    "model": "OPTIMA e5",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 7,
+    "model": "NYX HX",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 8,
+    "model": "NYX e5",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 9,
+    "model": "N61a",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 10,
+    "model": "NYX N23a",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 11,
+    "model": "OPTIMA PRO 2.02 kwh",
+    "oem": "Hero Electric Vehicles Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "JSA E-RICKSHAW LI",
+    "oem": "J.s. Auto Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "JMT1000HS",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "JMT 1000 HS CARGO",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "JMT 1000 48V",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 4,
+    "model": "DREAM 1.2PV",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 5,
+    "model": "DREAM 1.2CV",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 6,
+    "model": "DREAM 1.2DV",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 7,
+    "model": "JMT 1000 HS PLUS",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 8,
+    "model": "JMT 1000 3K",
+    "oem": "Jitendra New Ev Tech Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "Intercity 300",
+    "oem": "Kabira Mobility Llp"
+  },
+  {
+    "SNo": 2,
+    "model": "Intercity 350",
+    "oem": "Kabira Mobility Llp"
+  },
+  {
+    "SNo": 3,
+    "model": "Hermes 75",
+    "oem": "Kabira Mobility Llp"
+  },
+  {
+    "SNo": 1,
+    "model": "BULKe plus 2.0",
+    "oem": "Keto Motors Private Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "BULKe",
+    "oem": "Keto Motors Private Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "BULKe Plus 2.1",
+    "oem": "Keto Motors Private Limited"
+  },
+  {
+    "SNo": 4,
+    "model": "BULKe 1.0",
+    "oem": "Keto Motors Private Limited"
+  },
+  {
+    "SNo": 5,
+    "model": "TriLux",
+    "oem": "Keto Motors Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "Khalsa Grand",
+    "oem": "Khalsa Agencies"
+  },
+  {
+    "SNo": 1,
+    "model": "**Kinetic SAFAR SMART LFP",
+    "oem": "Kinetic Green Energy & Power Solutions Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "SAFAR SHAKTI LFP",
+    "oem": "Kinetic Green Energy & Power Solutions Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "KINETIC SAFAR SMART",
+    "oem": "Kinetic Green Energy & Power Solutions Ltd"
+  },
+  {
+    "SNo": 4,
+    "model": "**KINETIC SAFAR STAR - 400",
+    "oem": "Kinetic Green Energy & Power Solutions Ltd"
+  },
+  {
+    "SNo": 5,
+    "model": "KINETIC SAFAR JUMBO - PICKUP",
+    "oem": "Kinetic Green Energy & Power Solutions Ltd"
+  },
+  {
+    "SNo": 6,
+    "model": "KINETIC SAFAR SMART-NEXT",
+    "oem": "Kinetic Green Energy & Power Solutions Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "ecity zipD40",
+    "oem": "Lectrix Ev Pvt.ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "ecity zipC40",
+    "oem": "Lectrix Ev Pvt.ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "**SPOCK",
+    "oem": "Li-ions Elektrik Solutions Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "NARAIN i",
+    "oem": "Lohia Auto Industries"
+  },
+  {
+    "SNo": 2,
+    "model": "NARAIN iCE",
+    "oem": "Lohia Auto Industries"
+  },
+  {
+    "SNo": 3,
+    "model": "Humsafar iB",
+    "oem": "Lohia Auto Industries"
+  },
+  {
+    "SNo": 1,
+    "model": "**e-Verito C2",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "**e-Verito C4",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "**e-Verito C6",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 4,
+    "model": "**e-Verito D2",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 5,
+    "model": "**e-Verito D4",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 6,
+    "model": "**e-Verito D6",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 7,
+    "model": "**Mahindra e-Supro Cargo Van",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 8,
+    "model": "**Mahindra e-Supro Cargo Van VX",
+    "oem": "Mahindra & Mahindra Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "Treo Yaari HRT",
+    "oem": "Mahindra Electric Mobility Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "Treo HRT",
+    "oem": "Mahindra Electric Mobility Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "Treo SFT",
+    "oem": "Mahindra Electric Mobility Limited"
+  },
+  {
+    "SNo": 4,
+    "model": "Treo Yaari SFT",
+    "oem": "Mahindra Electric Mobility Limited"
+  },
+  {
+    "SNo": 5,
+    "model": "Treo Zor",
+    "oem": "Mahindra Electric Mobility Limited"
+  },
+  {
+    "SNo": 6,
+    "model": "Treo Zor FB",
+    "oem": "Mahindra Electric Mobility Limited"
+  },
+  {
+    "SNo": 7,
+    "model": "Treo Zor DV",
+    "oem": "Mahindra Electric Mobility Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "Anav12",
+    "oem": "Microcon I2i Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "TEJA HANDY CARGO NORMAL DECK EV",
+    "oem": "Mlr Auto Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "FAAST F4",
+    "oem": "Okaya Ev Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "RIDGE+",
+    "oem": "Okinawa Autotech Private Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "**iPRAISE",
+    "oem": "Okinawa Autotech Private Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "Praise Pro",
+    "oem": "Okinawa Autotech Private Limited"
+  },
+  {
+    "SNo": 4,
+    "model": "iPRAISE+",
+    "oem": "Okinawa Autotech Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "Ola S1 (E2W-AC-04)",
+    "oem": "Ola Electric Technologies Private Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "Ola S1 Pro (E2W-AB-04)",
+    "oem": "Ola Electric Technologies Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "e VIKAS",
+    "oem": "Om Balajee Automobile India Pvt Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "e VIKAS FERRI",
+    "oem": "Om Balajee Automobile India Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "RAGE+",
+    "oem": "Omega Seiki Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "Ape' E-City",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "Ape' E-City FX",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "Ape E- Xtra FX PU",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 4,
+    "model": "Ape E-Xtra FX With Platform",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 5,
+    "model": "Ape E-Xtra LX With Platform",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 6,
+    "model": "Ape E- Xtra LX PU",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 7,
+    "model": "Ape E-Xtra LX DAC",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 8,
+    "model": "Ape E-Xtra FX DAC",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 9,
+    "model": "Ape' E-Xtra EX With Platform",
+    "oem": "Piaggio Vehicles Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "RV300",
+    "oem": "Revolt Intellicorp Pvt. Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "RV400",
+    "oem": "Revolt Intellicorp Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "Mayuri Star",
+    "oem": "Saera Electric Auto Pvt. Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "MAYURI DV",
+    "oem": "Saera Electric Auto Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "VIKRAM Vidyut Passenger Carrier(6P+1D)",
+    "oem": "Scooters India Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "Bull Cart Super",
+    "oem": "Shigan Evoltz Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "Green Cart Super",
+    "oem": "Shigan Evoltz Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "Green Rick Super",
+    "oem": "Shigan Evoltz Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "ARZOO LI",
+    "oem": "Sks Trade India Pvt Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "ARZOO EC-LI",
+    "oem": "Sks Trade India Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "**SPEEGO DLX Li",
+    "oem": "Speego Vehicles Co. Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "**TATA TIGOR EV - XE",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "**TATA TIGOR EV - XM",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "**TATA TIGOR EV - XT",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 4,
+    "model": "TATA TIGOR EV - XE+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 5,
+    "model": "TATA TIGOR EV - XM+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 6,
+    "model": "TATA TIGOR EV - XT+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 7,
+    "model": "TATA NEXON EV XM",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 8,
+    "model": "TATA NEXON EV XZ+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 9,
+    "model": "TATA XPRES-T EV XE+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 10,
+    "model": "TATA XPRES-T EV XM+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 11,
+    "model": "TATA XPRES-T EV XT+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 12,
+    "model": "TATA NEXON EV XZ+ DK",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 13,
+    "model": "Tata Tigor EV XZ+",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 14,
+    "model": "Tata Tigor EV XE (26 kWh)",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 15,
+    "model": "Tata Tigor EV XM (26 kWh)",
+    "oem": "Tata Motors Passenger Vehicles Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "THUKRAL Erl Li",
+    "oem": "Thukral Electric Bikes Pvt Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "THUKRAL TM DLX Li",
+    "oem": "Thukral Electric Bikes Pvt Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "T 133",
+    "oem": "Tunwal E-motors Pvt. Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "Storm ZX Plus",
+    "oem": "Tunwal E-motors Pvt. Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "TEM G33",
+    "oem": "Tunwal E-motors Pvt. Ltd"
+  },
+  {
+    "SNo": 4,
+    "model": "RomaS",
+    "oem": "Tunwal E-motors Pvt. Ltd"
+  },
+  {
+    "SNo": 5,
+    "model": "TZ 3.3",
+    "oem": "Tunwal E-motors Pvt. Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "TVS iQUBE ELECTRIC",
+    "oem": "Tvs Motor Company Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "power Li-ion",
+    "oem": "U P Telelinks Ltd"
+  },
+  {
+    "SNo": 2,
+    "model": "Power Li-Ion DV",
+    "oem": "U P Telelinks Ltd"
+  },
+  {
+    "SNo": 3,
+    "model": "Power Li-Ion FB",
+    "oem": "U P Telelinks Ltd"
+  },
+  {
+    "SNo": 4,
+    "model": "Power Li-Ion CV",
+    "oem": "U P Telelinks Ltd"
+  },
+  {
+    "SNo": 1,
+    "model": "VICTORY VIKRANT",
+    "oem": "Victory Electric Vehicles International Private Limited"
+  },
+  {
+    "SNo": 2,
+    "model": "VICTORY +",
+    "oem": "Victory Electric Vehicles International Private Limited"
+  },
+  {
+    "SNo": 3,
+    "model": "VICTORY BHIM +",
+    "oem": "Victory Electric Vehicles International Private Limited"
+  },
+  {
+    "SNo": 4,
+    "model": "VICTORY BHIM CLEANER +",
+    "oem": "Victory Electric Vehicles International Private Limited"
+  },
+  {
+    "SNo": 1,
+    "model": "YATRI SUPER",
+    "oem": "Y C Electric Vehicle"
+  },
+  {
+    "SNo": 2,
+    "model": "YATRI CART",
+    "oem": "Y C Electric Vehicle"
+  }
+]

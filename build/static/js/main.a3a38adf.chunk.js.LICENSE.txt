@@ -1,0 +1,9 @@
+//! API_URL variable
+
+//! Set API_URL based on env
+
+//! duration in hours
+
+//! duration in minutes
+
+//! duration in seconds

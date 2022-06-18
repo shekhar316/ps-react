@@ -1,0 +1,108 @@
+
+.ReactSwipeButton {
+    float: left;
+    width: 100%;
+    height: 50px;
+    position: relative;
+  }
+  .ReactSwipeButton,
+  .ReactSwipeButton * {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;           /* Non-prefixed version, currently
+                                    not supported by any browser */
+  }
+  .rsbContainer{
+    float: left;
+    width: 100%;
+    height: 100%;
+    background: #D92C21;
+    border-radius: 10px;
+    position: relative;
+    /* box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1); */
+    overflow: hidden;
+  }
+  .rsbContainerUnlocked{
+    width: 50%!important;
+    margin-left: 25%;
+    transition: 0.5s;
+    cursor: default;
+  }
+  .rsbContainerUnlocked .rsbcSlider{
+    left: 100%!important;
+    cursor: default;
+    pointer-events: none;
+  }
+  .rsbContainerUnlocked .rsbcSliderArrow {
+    transition: 0.5s;
+    margin-right: -60px;
+  }
+  .rsbContainerUnlocked .rsbcSliderCircle {
+    transition: 0.5s;
+    margin-right: -60px;
+  }
+  .rsbcSlider {
+    float: left;
+    width: 100%;
+    position: absolute;
+    height: 50px;
+    top:0;
+    left: 50px;
+    margin-left:-100%;
+    background: #333;
+    border-radius: 10px;
+    z-index: 100;
+    cursor: pointer;
+  }
+  .rsbcSliderText{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+  
+  }
+  .rsbcSliderArrow{
+    float: left;
+    position: absolute;
+    transform: rotate(45deg);
+    border: 2px solid #fff;
+    height: 8px;
+    width: 8px;
+    top:50%;
+    right: 22px;
+    margin-top: -6px;
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+    transform-origin: center;
+    z-index: 10;
+  }
+  .rsbcSliderCircle {
+    position: absolute;
+    right: 0;
+    background: #444;
+    top:0;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+  }
+  .rsbcText {
+    float: left;
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+  }

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fa7d21c.chunk.css",
+    "main.js": "/static/js/main.a3a38adf.chunk.js",
+    "main.js.map": "/static/js/main.a3a38adf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea1f32e3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea1f32e3.js.map",
+    "static/js/2.17b02f5b.chunk.js": "/static/js/2.17b02f5b.chunk.js",
+    "static/js/2.17b02f5b.chunk.js.map": "/static/js/2.17b02f5b.chunk.js.map",
+    "static/js/3.f9f653aa.chunk.js": "/static/js/3.f9f653aa.chunk.js",
+    "static/js/3.f9f653aa.chunk.js.map": "/static/js/3.f9f653aa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1fa7d21c.chunk.css.map": "/static/css/main.1fa7d21c.chunk.css.map",
+    "static/js/2.17b02f5b.chunk.js.LICENSE.txt": "/static/js/2.17b02f5b.chunk.js.LICENSE.txt",
+    "static/js/main.a3a38adf.chunk.js.LICENSE.txt": "/static/js/main.a3a38adf.chunk.js.LICENSE.txt",
+    "static/media/check.546e4e84.png": "/static/media/check.546e4e84.png",
+    "static/media/confetti.4ea37647.png": "/static/media/confetti.4ea37647.png",
+    "static/media/evcharger.ad44f0fa.png": "/static/media/evcharger.ad44f0fa.png",
+    "static/media/evcharger.e2197a56.svg": "/static/media/evcharger.e2197a56.svg",
+    "static/media/freecharging.d4cf7601.svg": "/static/media/freecharging.d4cf7601.svg",
+    "static/media/powerstrip-logo-new.8be72dd5.png": "/static/media/powerstrip-logo-new.8be72dd5.png",
+    "static/media/powerstrip-logo.1aa5c57f.webp": "/static/media/powerstrip-logo.1aa5c57f.webp",
+    "static/media/powerstrip.4d88c9ff.png": "/static/media/powerstrip.4d88c9ff.png",
+    "static/media/rate-five.9cb4551e.svg": "/static/media/rate-five.9cb4551e.svg",
+    "static/media/rate-four.8b62500b.svg": "/static/media/rate-four.8b62500b.svg",
+    "static/media/rate-one.ac6680cd.svg": "/static/media/rate-one.ac6680cd.svg",
+    "static/media/rate-three.fe7b8957.svg": "/static/media/rate-three.fe7b8957.svg",
+    "static/media/rate-two.928f3457.svg": "/static/media/rate-two.928f3457.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea1f32e3.js",
+    "static/js/2.17b02f5b.chunk.js",
+    "static/css/main.1fa7d21c.chunk.css",
+    "static/js/main.a3a38adf.chunk.js"
+  ]
+}
